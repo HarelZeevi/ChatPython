@@ -1,5 +1,5 @@
 # ChatPython
-Simple and nice looking chat programmed in python using socket lib and tkinter.
+Simple and nice-looking chat programmed in python using socket lib and tkinter.
 
 # User Guide:
 1) open server.pyw file. 
